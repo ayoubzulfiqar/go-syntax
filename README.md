@@ -1,4 +1,4 @@
-# ![GO Syntax](https://www.dropbox.com/s/cd8utahgfq4rwp1/goSyntax.png?dl=1)
+# ![GO Syntax](https://drive.google.com/uc?export=view&id=1uN6mkxzpGQoF0ATiFkGtu4KpKnqb3T8r)
 
 - Go is an open source programming language supported by Google
 - Easy to learn and get started with
